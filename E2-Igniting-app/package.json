@@ -1,0 +1,26 @@
+{
+  "name": "e2-igniting-app",
+  "version": "1.0.0",
+  "description": "Initial app",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Revanth",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "browserslist": "^4.24.4",
+    "chalk": "^5.4.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
